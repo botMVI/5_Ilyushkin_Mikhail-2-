@@ -128,6 +128,6 @@ print(mb.type)
 
 print(kamaz.owner)
 print(belaz.capacity)
-
+print(belaz.openWindow(window: .close))
 
 //for gitHub comment
